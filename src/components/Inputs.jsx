@@ -7,7 +7,8 @@ function Inputs({setQuery, setUnits}) {
   const [city, setCity] = useState("")
 
   const handleSearchClick = () => {
-    if (city !=="") setQuery({ q: city })
+    if (city !=="") setQuery({ q: city });
+    setCity("");
   }
 
   const handleLocationClick = () => {
