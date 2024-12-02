@@ -1,6 +1,6 @@
 import TopButtons from "./components/TopButtons";
 import Inputs from "./components/Inputs";
-import TimeAndLocation from "./components/TimeandLocation";
+import TimeAndLocation from "./components/TimeAndLocation";
 import TempAndDetails from "./components/TempAndDetails";
 import Forecast from "./components/Forecast";
 import getFormattedWeatherData from "./services/weatherService";
