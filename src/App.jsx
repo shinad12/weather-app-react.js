@@ -1,5 +1,5 @@
 import TopButtons from "./components/TopButtons";
-import Inputs from "./components/inputs";
+import Inputs from "./components/Inputs";
 import TimeAndLocation from "./components/TimeandLocation";
 import TempAndDetails from "./components/TempAndDetails";
 import Forecast from "./components/Forecast";
